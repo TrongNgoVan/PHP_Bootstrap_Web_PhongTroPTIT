@@ -1,6 +1,6 @@
-Website Phòng Trọ PTIT phiên bản PHP MySQL Bootstrap!!!
+# Website Phòng Trọ PTIT phiên bản PHP MySQL Bootstrap!!!
 
-Chức năng cơ bản : 
+# Chức năng cơ bản : 
 
 - Đăng ký , đăng nhập.
 - Quản lý thông tin người dùng
@@ -9,17 +9,21 @@ Chức năng cơ bản :
 - Đặt và quản lý hợp đồng phòng trọ.
 - Và rất nhiều những tính năng nhỏ , chi tiết khác.
 
-Cài đặt Xampp tại đây : https://www.apachefriends.org/download.html
+# Cấu hình và cài đặt.
 
-Xampp hỗ trợ môi trường để chạy web PHP , hỗ trợ hệ quản trị MySQL online là PHPAdmin.
+- PHP là một ngôn ngữ được hỗ trợ rất nhiều trong viec code , cài đặt , cấu hình rất nhẹ nhàng , nó luôn đi với bộ MySQL , Xampp!!!
 
-Cài đặt:  Bật MySQL để hỗ trợ PHPAdmin , Apache để hỗ trợ môi trường chạy web.
+- Cài đặt Xampp tại đây : https://www.apachefriends.org/download.html
 
-Cơ sở dữ liệu sẽ tạo trên PHPAdmin bằng cách tạo Database, đưa file SQL lên và thực hiện!
+- Xampp hỗ trợ môi trường để chạy web PHP , hỗ trợ hệ quản trị MySQL online là PHPAdmin.
 
-Thư mục code sẽ nằm trong phần thư mục C:\xampp\htdocs\Tên thuc mục 
+- Cài đặt:  Bật MySQL để hỗ trợ PHPAdmin , Apache để hỗ trợ môi trường chạy web.
 
-Chạy Project: ta sẽ chạy trên đường link localhost/Tên thư mục   
+- Cơ sở dữ liệu sẽ tạo trên PHPAdmin bằng cách tạo Database, đưa file SQL lên và thực hiện!
 
-PHP là một ngôn ngữ được hỗ trợ rất nhiều trong viec code , cài đặt , cấu hình rất nhẹ nhàng , nó luôn đi với bộ MySQL , Xampp!!!
+- Thư mục code sẽ nằm trong phần thư mục C:\xampp\htdocs\Tên thuc mục 
+
+- Chạy Project: ta sẽ chạy trên đường link localhost/Tên thư mục   
+
+
 
