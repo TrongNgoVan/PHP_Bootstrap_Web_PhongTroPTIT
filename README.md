@@ -1,4 +1,4 @@
-# Website Phòng Trọ PTIT phiên bản PHP MySQL Bootstrap!!!
+# Website Phòng Trọ PTIT phiên bản PHP MySQL Bootstrap!!! - 15/05/2024
 
 # Chức năng cơ bản : 
 
